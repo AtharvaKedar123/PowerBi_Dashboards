@@ -1,0 +1,1 @@
+“I built a customer retention and cohort analysis dashboard to understand user behavior, repeat purchases, and revenue trends over time.”
