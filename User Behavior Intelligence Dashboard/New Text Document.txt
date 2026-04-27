@@ -1,0 +1,1 @@
+“This dashboard analyzes user behavior by linking engagement metrics like session time and page visits with revenue. The scatter plot identifies high-value users, while the funnel highlights drop-off points. Combined with category and geographic insights, it helps optimize conversion and user retention.”
