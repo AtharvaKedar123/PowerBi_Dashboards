@@ -1,8 +1,11 @@
-# 📊 Power BI Dashboards Portfolio
+<details>
+<summary>📈 Sales Performance Dashboard</summary>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2W7l0r8K4z0k/giphy.gif" width="600"/>
-</p>
+- Tracks revenue, profit, and trends  
+- Region-wise performance  
+- KPI insights  
+
+</details>
 
 ## 🚀 Overview
 
