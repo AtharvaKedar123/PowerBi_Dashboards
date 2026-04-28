@@ -1,6 +1,9 @@
-# 📊 Power BI Dashboards Portfolio
+<p align="center">
 
-**Business-focused dashboards for analytics, insights, and decision-making**
+# 📊 Power BI Dashboards Portfolio  
+### Data Analytics | Power BI | Business Insights
+
+</p>
 
 ---
 
