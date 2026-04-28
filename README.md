@@ -1,9 +1,8 @@
-<p align="center">
+# 📊 Power BI Dashboards Portfolio
 
-# 📊 Power BI Dashboards Portfolio  
-### Data Analytics | Power BI | Business Insights
-
-</p>
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat&logo=powerbi)
+![Focus](https://img.shields.io/badge/Focus-Data%20Analytics-blue?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
 
 ---
 
