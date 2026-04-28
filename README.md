@@ -1,8 +1,8 @@
 # 📊 Power BI Dashboards Portfolio
 
-A collection of real-world, business-focused **Power BI dashboards** designed to demonstrate data analysis, visualization, and storytelling skills.
-
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz2W7l0r8K4z0k/giphy.gif" width="600"/>
+</p>
 
 ## 🚀 Overview
 
