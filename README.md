@@ -1,11 +1,8 @@
-<details>
-<summary>📈 Sales Performance Dashboard</summary>
+# 📊 Power BI Dashboards Portfolio
 
-- Tracks revenue, profit, and trends  
-- Region-wise performance  
-- KPI insights  
+**Business-focused dashboards for analytics, insights, and decision-making**
 
-</details>
+---
 
 ## 🚀 Overview
 
