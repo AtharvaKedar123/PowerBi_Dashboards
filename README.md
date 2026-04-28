@@ -1,8 +1,8 @@
 # 📊 Power BI Dashboards Portfolio
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2W7l0r8K4z0k/giphy.gif" width="600"/>
-</p>
+**Business-focused dashboards for analytics, insights, and decision-making**
+
+---
 
 ## 🚀 Overview
 
