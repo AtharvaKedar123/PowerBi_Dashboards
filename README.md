@@ -1,10 +1,8 @@
 # 📊 Power BI Dashboards Portfolio
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat&logo=powerbi)
-![Focus](https://img.shields.io/badge/Focus-Data%20Analytics-blue?style=flat)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
-
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz2W7l0r8K4z0k/giphy.gif" width="600"/>
+</p>
 
 ## 🚀 Overview
 
