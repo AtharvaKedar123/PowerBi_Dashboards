@@ -52,7 +52,7 @@ It provides a data-driven approach to understanding **long-term customer profita
 
 ## 📷 Dashboard Preview
 
-> <img width="1224" height="831" alt="{6B41B03F-68B6-463F-B16A-E25C3D90375B}" src="https://github.com/user-attachments/assets/a5df4bfc-e1a6-4f0a-bad8-3e429e7446ee" />
+> <img width="1216" height="841" alt="{D3D65966-B668-4979-93B9-EABEF3F44657}" src="https://github.com/user-attachments/assets/6fc78757-eade-46cd-a928-520d38224e95" />
 
 ---
 
