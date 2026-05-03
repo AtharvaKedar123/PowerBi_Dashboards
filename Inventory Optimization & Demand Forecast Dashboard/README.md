@@ -1,28 +1,62 @@
-# Inventory Optimization & Demand Forecast Dashboard
+# 📦 Inventory Optimization & Demand Forecast Dashboard
+
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Domain](https://img.shields.io/badge/Domain-Supply%20Chain-0EA5E9?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Inventory%20%26%20Demand%20Forecasting-059669?style=for-the-badge)
+![Level](https://img.shields.io/badge/Project-Level%20Advanced-22C55E?style=for-the-badge)
+
+---
 
 ## 📌 Overview
-Optimizes stock levels and forecasts product demand.
 
-## 🎯 Objectives
-- Monitor inventory levels
-- Forecast demand
-- Prevent stockouts
+This dashboard analyzes **inventory levels and demand trends** to optimize stock management and reduce inefficiencies.
 
-## 📊 Key Metrics
-- Stock Quantity
-- Demand Forecast
-- Reorder Level
-- Inventory Turnover
+It provides insights into **stock availability, demand patterns, and inventory risks**, enabling better supply chain decisions.
 
-## 📈 Visualizations
-- Inventory by Category (Bar)
-- Demand Forecast Trend (Line)
-- Stock Alerts Table
+---
 
-## 💡 Insights
-- Identifies overstock/understock
-- Improves inventory planning
+## 🚀 Key Highlights
 
-## 🛠 Tools Used
-- Power BI
-- DAX
+- 📊 **Inventory Level Monitoring**
+- 📈 **Demand Forecasting Trends**
+- ⚠️ **Stock Shortage & Overstock Alerts**
+- 🏭 **Category-Wise Inventory Analysis**
+- 🔄 **Supply vs Demand Comparison**
+
+---
+
+## 📊 Dashboard Insights
+
+- Certain products frequently face **stock shortages due to demand spikes**  
+- Overstock situations lead to **increased holding costs**  
+- Demand forecasting helps maintain **optimal inventory levels**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI** — Data Visualization  
+- **DAX** — Measures & Calculations  
+- **Data Modeling** — Relationship Building  
+
+---
+
+## 🎯 Business Impact
+
+- ✔️ Reduces inventory holding costs  
+- ✔️ Prevents stockouts and overstock  
+- ✔️ Improves supply chain efficiency  
+- ✔️ Supports data-driven inventory planning  
+
+---
+
+## 📷 Dashboard Preview
+
+> <img width="1210" height="843" alt="{9C509779-2D21-4C8A-808B-7C097C5AA5FC}" src="https://github.com/user-attachments/assets/10e54f2a-6ab3-4ab4-9a54-7bde7800557f" />
+
+
+---
+
+## 🔗 Project Status
+
+🚀 Completed & Ready for Portfolio Showcase  
