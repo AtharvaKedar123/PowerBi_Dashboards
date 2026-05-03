@@ -52,7 +52,7 @@ It provides deep insights into **customer engagement, churn trends, and lifecycl
 
 ## 📷 Dashboard Preview
 
-> <img width="1400" height="840" alt="{FB4909F8-EA3F-4342-B9D0-A838E063E409}" src="https://github.com/user-attachments/assets/0a208d7d-d0d8-4ae1-9acc-eaa79ab4545d" />
+> <img width="1403" height="849" alt="{C5C64AA2-E2B8-482D-B18E-86778B2D058B}" src="https://github.com/user-attachments/assets/5648ff1d-958f-40e5-b51e-f56a2e1fc3cd" />
 
 
 ---
