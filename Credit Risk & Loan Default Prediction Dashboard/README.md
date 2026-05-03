@@ -52,7 +52,8 @@ It provides a clear, data-driven view of **credit risk**, helping financial inst
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
+> <img width="1198" height="844" alt="{DC82F009-95B4-44D9-974C-0E0E01761A24}" src="https://github.com/user-attachments/assets/196c4aed-07d9-49a4-8fbc-aaa0caea7256" />
+
 
 ---
 
