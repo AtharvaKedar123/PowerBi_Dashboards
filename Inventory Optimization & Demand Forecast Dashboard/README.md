@@ -52,7 +52,7 @@ It provides insights into **stock availability, demand patterns, and inventory r
 
 ## 📷 Dashboard Preview
 
-> <img width="1210" height="843" alt="{9C509779-2D21-4C8A-808B-7C097C5AA5FC}" src="https://github.com/user-attachments/assets/10e54f2a-6ab3-4ab4-9a54-7bde7800557f" />
+
 
 
 ---
