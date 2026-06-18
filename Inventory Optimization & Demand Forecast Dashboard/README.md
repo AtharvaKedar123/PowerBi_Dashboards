@@ -52,7 +52,9 @@ It provides insights into **stock availability, demand patterns, and inventory r
 
 ## 📷 Dashboard Preview
 
-
+<p align="center">
+  <img width="1397" height="832" alt="Inventory Optimization & Demand Forecast Dashboard" src="https://github.com/user-attachments/assets/f27a5727-c94a-473b-a674-39729999d42f" />
+</p>
 
 
 ---
